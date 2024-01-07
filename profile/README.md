@@ -9,7 +9,6 @@ Repositories found here contain all (completed an not) files for our projects, a
 * [**Discord**](https://discord.gg/E3M25nQGNv)
 * [**YouTube**](https://www.youtube.com/@OneShot.Studio)
 
+---
 ### Contact Us
 * Email: OneShotStudio.Developers@gmail.com
-
----
