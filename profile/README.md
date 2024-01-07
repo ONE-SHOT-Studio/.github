@@ -10,5 +10,5 @@ Repositories found here contain all (completed an not) files for our projects, a
 * [**YouTube**](https://www.youtube.com/@OneShot.Studio)
 
 ---
-### Contact Us
+### Contact us:
 * Email: OneShotStudio.Developers@gmail.com
