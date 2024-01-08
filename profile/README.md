@@ -11,4 +11,4 @@ Repositories found here contain all (completed an not) files for our projects, a
 
 ---
 ### Contact us:
-* Email: OneShotStudio.Developers@gmail.com
+* **Email:** OneShotStudio.Developers@gmail.com
